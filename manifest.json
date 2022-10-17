@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Selecton — selection popup. Copy and search",
+  "name": "Selecton — selection popup. Copy and search Modded",
   "version": "3.6.6",
-  "author": "emvaized",
+  "author": "ShambaC",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
   "icons": {
@@ -31,7 +31,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "selection_action@emvaized.com"
+      "update_url": "https://github.com/ShambaC/selecton-extension/blob/master/manifest.json"
     }
   },
   "background": {
